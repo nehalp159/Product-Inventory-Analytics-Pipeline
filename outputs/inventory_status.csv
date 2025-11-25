@@ -1,0 +1,6 @@
+product_id,product_name,stock_on_hand,reorder_level,total_quantity_sold,estimated_stock_after_sales
+101,Coffee Beans 1kg,120,50,5,115
+102,Green Tea 500g,80,30,4,76
+103,Chocolate Cookies 12-pack,200,60,5,195
+104,Almond Milk 1L,40,20,10,30
+105,Granola Bars 6-pack,25,15,6,19

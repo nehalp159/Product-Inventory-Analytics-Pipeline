@@ -1,0 +1,6 @@
+product_id,product_name,category,unit_cost,stock_on_hand,reorder_level
+101,Coffee Beans 1kg,Beverages,8.5,120,50
+102,Green Tea 500g,Beverages,4.2,80,30
+103,Chocolate Cookies 12-pack,Snacks,2.1,200,60
+104,Almond Milk 1L,Dairy,1.5,40,20
+105,Granola Bars 6-pack,Snacks,3.0,25,15
