@@ -168,9 +168,3 @@ run_etl = BashOperator(
 -   Add Slack or email alerts in Airflow\
 -   Parameterize ETL run dates\
 -   Add store-wise performance dashboard
-
-------------------------------------------------------------------------
-
-## 📝 Author
-
-Nehal Pawar --- Data Engineering & Analytics Portfolio
