@@ -38,16 +38,20 @@ using:
 
 ## 📂 Project Structure
 
-    project-root/
+    Product-Inventory-Analytics-Pipeline/
     ├─ etl_inventory_sales.py
     ├─ inventory.csv
     ├─ sales.csv
-    ├─ clean_sales_inventory.csv
-    ├─ agg_sales_by_product.csv
-    ├─ inventory_status.csv
-    ├─ airflow/
-    │  └─ dags/
-    │     └─ inventory_etl_dag.py
+    ├─ outputs/
+    │  ├── clean_sales_inventory.csv
+    |  ├── agg_sales_by_product.csv
+    │  └── inventory_status.csv
+    ├─ airflow_dag/
+    │  └── inventory_etl_dag.py
+    ├─ snowflake/
+    │  └── schema_tables.sql
+    ├─ tableau/
+    │  └── dashboard_link.txt
     └─ README.md
 
 ------------------------------------------------------------------------
